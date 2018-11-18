@@ -1,5 +1,7 @@
 aaaaaaaa
 sssssssss
 ddddddddd
-ssdsdsdsd
-
+<<<<<<< HEAD
+s
+d
+sssdwa>>>>>> feature1
